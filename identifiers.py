@@ -1,22 +1,21 @@
-number=10
-name="vardhan"
-student_id=502
-max_value=100
-college_name="gmr"
+#Y.Mukhesh
+#identifiers
+class Student:
+    pass
+def details():
+    age = 19
+    height = 168.5
+    user_name = "Mukhesh"
+    print("Variable:", age)
+    print("Constant:", height)
+    print("Underscore Name:", user_name)
+details()
+print("Class Name: Student")
+print("Function Name: details")
 
-print("number=",number)
-print("name=",name)
-print("student_id=",student_id)
-print("max_value=",max_value)
-print("college_name=",college_name)
-
-
-#number= 10
-#name= vardhan
-#student_id= 502
-#max_value= 100
-#college_name= gmr
-
-
-
-
+#output
+#Variable: 19
+#Constant: 168.5
+#Underscore Name: Mukhesh
+#Class Name: Student
+#Function Name: details
