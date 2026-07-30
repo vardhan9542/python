@@ -1,4 +1,4 @@
-#Y.Mukhesh
+#N.Guna vardhan
 #declare variables and types
 name = "Mukhesh"
 age = 19
