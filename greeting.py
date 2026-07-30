@@ -1,4 +1,4 @@
-#Y.Mukhesh
+#N.Guna vardhan
 #greeting program
 import sys
 name = sys.argv[1]
