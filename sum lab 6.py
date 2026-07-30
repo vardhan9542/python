@@ -1,4 +1,4 @@
-#Y.Mukhesh
+#N.Guna vardhan
 #seperated by spaces
 numbers = input("Enter numbers separated by spaces: ").split()
 numbers = list(map(int, numbers))
